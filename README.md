@@ -1,5 +1,4 @@
 # 象行网 App 目录
-*****
 > 象行网 App 使用或参考的资源
 ## 组件
 - **cube-ui** - 滴滴移动端UI组件 [Github](https://github.com/didi/cube-ui) [官网](https://didi.github.io/cube-ui/#/zh-CN) [示例](https://didi.github.io/cube-ui/example/#/)
