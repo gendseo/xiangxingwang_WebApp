@@ -5,7 +5,7 @@ all static flie and web server by github provide.
 ```
 xiangxingwang_WebApp Demo Runing in https://xiangxingwang.github.io/
 *****
-# xiangxingwang_WebApp 使用或参考的资源目录
+# 使用或参考的资源目录
 ## 组件
 - **cube-ui** - 滴滴移动端 UI 库 [Github](https://github.com/didi/cube-ui) [官网](https://didi.github.io/cube-ui/#/zh-CN) [示例](https://didi.github.io/cube-ui/example/#/)
 - **vux-ui** - 基于 WeUI 封装的移动端 UI 库 [Github](https://github.com/airyland/vux) [官网](https://doc.vux.li/zh-CN/) [示例](https://vux.li/demos/v2/?x-page=v2-doc-home#/)
