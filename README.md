@@ -1,5 +1,11 @@
-# 象行网 App 目录
-> 象行网 App 使用或参考的资源
+# Runing DEMO
+```
+xiangxingwang_WebApp demo testing.
+all static flie and web server by github provide.
+```
+xiangxingwang_WebApp Demo Runing in https://xiangxingwang.github.io/
+*****
+# xiangxingwang_WebApp 使用或参考的资源目录
 ## 组件
 - **cube-ui** - 滴滴移动端 UI 库 [Github](https://github.com/didi/cube-ui) [官网](https://didi.github.io/cube-ui/#/zh-CN) [示例](https://didi.github.io/cube-ui/example/#/)
 - **vux-ui** - 基于 WeUI 封装的移动端 UI 库 [Github](https://github.com/airyland/vux) [官网](https://doc.vux.li/zh-CN/) [示例](https://vux.li/demos/v2/?x-page=v2-doc-home#/)
@@ -9,3 +15,4 @@
 ## 资源
 - **Font Awesome** - SVG 图标组件使用的图标库 [Github](https://github.com/FortAwesome/Font-Awesome) [英文官网](https://fontawesome.com/icons?d=gallery) [中文官网](http://www.fontawesome.com.cn/) 
 - **cube-ui如何搭配vue-cli@3.0使用** [Github](https://github.com/cube-ui/question-answer/issues/14)
+
